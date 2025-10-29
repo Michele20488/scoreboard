@@ -1,19 +1,40 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🏀 Scoreboard App (Home vs Guest)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Un tabellone segnapunti semplice e reattivo, interamente costruito con HTML, CSS e JavaScript vanilla (puro). Progettato per tenere traccia dei punteggi di due squadre e visualizzare visivamente la squadra in vantaggio.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## ✨ Funzionalità
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+* **Punti Multipli:** Aggiungi punti (1, 2 o 3) per ciascuna squadra.
+* **Evidenziazione del Leader:** Il team attualmente in vantaggio viene evidenziato con un bordo tratteggiato.
+* **Bottone di Restart:** Funzione per azzerare rapidamente il tabellone segnapunti a 0-0.
+* **Manipolazione del DOM:** Implementazione chiara della modifica degli elementi HTML in base alla logica JavaScript.
 
-Happy Coding!
+## 🛠️ Tecnologie Utilizzate
+
+* **HTML5:** Struttura del tabellone.
+* **CSS3:** Stile e layout (con un font esterno per il display del punteggio).
+* **JavaScript (Vanilla):** Tutta la logica di conteggio, aggiornamento del display e gestione dello stato del team leader.
+
+## 🚀 Come Eseguire il Progetto
+
+1.  **Clona il Repository:**
+    ```bash
+    git clone [INSERISCI QUI IL LINK AL TUO REPOSITORY]
+    ```
+2.  **Apri in un Browser:**
+    Apri il file `index.html` direttamente nel tuo browser web (Chrome, Firefox, ecc.).
+3.  **Inizia ad Assegnare Punti!**
+
+## 💡 Note di Sviluppo
+
+Questo progetto funge da eccellente esercizio per praticare i concetti fondamentali di JavaScript, in particolare:
+
+* Manipolazione di base del DOM (`document.getElementById()`, `.innerText`).
+* Uso delle variabili globali per mantenere lo stato (`home`, `guest`).
+* Logica condizionale (`if/else if/else`) per il cambio dinamico degli stili CSS.
+
+---
+
+### Autore
+
+Michele Lombardi
