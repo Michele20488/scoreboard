@@ -19,7 +19,7 @@ Un tabellone segnapunti semplice e reattivo, interamente costruito con HTML, CSS
 
 1.  **Clona il Repository:**
     ```bash
-    git clone [INSERISCI QUI IL LINK AL TUO REPOSITORY]
+    git clone https://github.com/Michele20488/scoreboard
     ```
 2.  **Apri in un Browser:**
     Apri il file `index.html` direttamente nel tuo browser web (Chrome, Firefox, ecc.).
