@@ -1,6 +1,6 @@
 # 🏀 Scoreboard App (Home vs Guest)
 
-A simple, responsive scoreboard built entirely with vanilla (pure) HTML, CSS, and JavaScript. Designed to track the scores of two teams and visually display which team is currently leading.
+A simple scoreboard built entirely with vanilla (pure) HTML, CSS, and JavaScript. Designed to track the scores of two teams and visually display which team is currently leading.
 
 ## ✨ Features
 
